@@ -799,4 +799,7 @@ footer {
         margin: 0; 
         text-align: center; 
     }
+    .project-card:hover {
+   display: none;
+}
 }
