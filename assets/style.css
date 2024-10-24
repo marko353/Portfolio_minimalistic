@@ -321,8 +321,6 @@ ul li a:hover {
 .project-link:hover {
     background-color: darkorange;
 }
-
-
 .contact {
     padding: 2rem;
     text-align: center;
@@ -470,10 +468,6 @@ footer {
 .footer-bottom p {
    color: white;
 }
-
-
-
-
 @media (max-width: 1078px) {
     .text-about p {
         font-size: 1.7rem;
@@ -697,12 +691,6 @@ footer {
     }
   
 }
-
-
-
-
-
-
 @media (max-width: 480px) {
   
     .text-about p {
@@ -799,7 +787,13 @@ footer {
         margin: 0; 
         text-align: center; 
     }
-    .project-card:hover {
-   display: none;
+.project-card {
+  transform: none;
+  transition: none; 
+}
+
+.project-card:hover {
+  transform: none; 
+  box-shadow: none; 
 }
 }
