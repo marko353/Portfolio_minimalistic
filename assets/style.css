@@ -787,10 +787,7 @@ footer {
         margin: 0; 
         text-align: center; 
     }
-.project-card {
-  transform: none;
-  transition: none; 
-}
+
 
 .project-card:hover {
   transform: none; 
