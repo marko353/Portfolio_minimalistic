@@ -306,6 +306,7 @@ ul li a:hover {
 .project-card p {
     padding: 0 1rem;
     font-size: 1rem;
+    text-align: left;
 }
 
 .project-link {
