@@ -789,8 +789,5 @@ footer {
     }
 
 
-.project-card:hover {
-  transform: none; 
-  box-shadow: none; 
-}
+
 }
