@@ -733,9 +733,19 @@ footer {
         text-align: left;
     }
 
-    .social a {
-        font-size: 30px;
+     .social{
+        margin-left: 6%;
+    }
+   
+    
+    .social-list li {
+        margin: 0 10px; 
        
+    }
+    
+    .social-list a {
+        font-size: 30px; 
+
     }
 
     h1, h2 {
