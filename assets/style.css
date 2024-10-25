@@ -802,6 +802,12 @@ footer {
     transform: none;
     box-shadow: none;
 }
+     .skill-box p{
+        font-size: 1.2rem;
+        text-align: left;
+        width: 100%;
+        margin-left: 7%;
+    }
 
 
 
